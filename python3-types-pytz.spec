@@ -2,7 +2,7 @@ Summary:	Typing stubs for pytz
 Summary(pl.UTF-8):	Zaślepki typów dla modułu pytz
 Name:		python3-types-pytz
 Version:	2023.3.0.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/types-pytz/
