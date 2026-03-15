@@ -24,7 +24,7 @@ to check code that uses pytz.
 
 %description -l pl.UTF-8
 Ten pakiet zawiera zaślepki typów zgodne z PEP 561 dla pakietu pytz.
-Mogą one być używany przez narzędzia sprawdzające typy, takie jak
+Mogą one być używane przez narzędzia sprawdzające typy, takie jak
 mypy, pyright, pytype, PyCharm itp. do sprawdzania kodu
 wykorzystującego pytz.
 
